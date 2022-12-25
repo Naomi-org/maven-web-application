@@ -92,17 +92,17 @@
 		</dependency>	
 	</dependencies>
 	<distributionManagement>
-	   <!-- <repository>
+	     <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-web-releases/</url>
-	    </repository>-->
+	      <name>google webapp release repository</name>
+	      <url>http://172.31.66.75:8081/bush/repository/google-webapp-release/</url>
+	    </repository>
 	    
-	  <!--<snapshotRepository>
+	     <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-webapp-snapshots/</url>
-	    </snapshotRepository>-->
+	      <name>google webapp release repository</name>
+	      <url>http://172.31.66.75:8081/bush/repository/google-webapp-snapshot/</url>
+	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
